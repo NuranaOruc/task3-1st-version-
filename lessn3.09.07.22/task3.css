@@ -1,0 +1,30 @@
+img {
+    width: 207px;
+    height: 268px;
+    padding: 1% 0% 2% 2%;
+
+body {
+    width: 43%;
+    border: 3px solid #DDDDDD;
+}
+
+
+p {
+    font-size: 20px;
+    color: #414548;
+}
+
+
+button {
+    background-color: #17A2B8;
+    color: #F4FFFC;
+}
+
+
+
+button {
+    border-color: #17A2B8;
+    padding: 8px;
+    font-size: larger;
+}
+
